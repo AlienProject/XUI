@@ -2,6 +2,9 @@
   <img src="./art/app_logo_xui.png" width="388" height="321" alt="Banner" />
 </p>
 
+https://github.com.cnpmjs.org/xuexiangjys/XUI.git 【加速版】
+https://github.com/xuexiangjys/XUI.git
+
 # XUI
 [![](https://jitpack.io/v/xuexiangjys/XUI.svg)](https://jitpack.io/#xuexiangjys/XUI)
 [![api](https://img.shields.io/badge/API-17+-brightgreen.svg)](https://android-arsenal.com/api?level=17)
